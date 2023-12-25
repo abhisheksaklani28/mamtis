@@ -11,6 +11,10 @@ public class classgit
 	{
 		System.out.println("this is second method m2");
 	}
+	public void m3()
+	{
+		System.out.println("this is second method m3");
+	}
 	public static void main(String[] args) 
 	{
 	classgit obj=new classgit();
